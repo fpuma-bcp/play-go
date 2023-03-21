@@ -1,4 +1,4 @@
-# PlayGround with Golang
+# Playground with Golang
 
 ## Configure Enviroment Variables
 For Mac, in the .zshrc file
