@@ -11,3 +11,8 @@ export PATH=$PATH:$GOBIN
 Where $HOME already exists in your Mac.
 
 This is mandatory if you want to work with your own packages.
+
+## Init Project
+```bash
+go mod init example/playground/basic
+```
