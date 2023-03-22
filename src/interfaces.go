@@ -31,7 +31,7 @@ func printArea(shape Shape) {
 func main() {
 	mySquare := Square{side: 4}
 	myRectangle := Rectangle{base: 2, height: 4}
-	printArea(mySquare)
-	printArea(myRectangle)
+	printArea(mySquare)    // {side:4} \n area: 16
+	printArea(myRectangle) // {base:2 height:4} \n area: 8
 
 }
